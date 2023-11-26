@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.generate-unique-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.generate-unique-name'"
+  },
+  {
+    "name": "spring.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.name'"
+  },
+  {
+    "name": "spring.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.jwt.secret-key'"
+  }
+]}

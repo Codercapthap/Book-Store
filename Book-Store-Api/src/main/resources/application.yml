@@ -1,0 +1,8 @@
+spring:
+ datasource:
+    url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;user=NBK;password=12345678;DatabaseName=BookStore
+security:
+  jwt:
+    secretKey: thisismysecretkey
+server:
+  port : 8081
